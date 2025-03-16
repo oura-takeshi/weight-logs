@@ -51,6 +51,11 @@ php artisan db:seed
 ## ER図
 ![alt](erd.png)
 
+## テストユーザーのログイン情報
+- name：山田 太郎
+- email：yamadatarou@example.com
+- password：password
+
 ## URL
 - 開発環境：http://localhost/
 - phpMyAdmin:：http://localhost:8080/
